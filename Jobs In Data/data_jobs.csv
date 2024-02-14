@@ -1,0 +1,828 @@
+work_year,job_category,salary_currency,experience_level,work_setting,company_location,company_size,no_of_positions,sum_salaries
+2023,"Data Engineering",EUR,Mid-level,Hybrid,Germany,L,1,95012
+2023,"Data Architecture and Modeling",USD,Senior,In-person,"United States",M,84,12322450
+2023,"Data Science and Research",USD,Senior,In-person,"United States",M,1034,189160985
+2023,"Data Science and Research",USD,Senior,Remote,"United States",M,550,97083820
+2023,"Machine Learning and AI",USD,Mid-level,In-person,"United States",M,87,14975321
+2023,"Data Engineering",USD,Executive,Remote,"United States",M,30,6448296
+2023,"Machine Learning and AI",USD,Senior,In-person,"United States",M,660,132200206
+2023,"Data Science and Research",GBP,Mid-level,In-person,"United Kingdom",M,29,2401453
+2023,"Data Analysis",USD,Entry-level,In-person,"United States",M,43,3606771
+2023,"Leadership and Management",USD,Mid-level,In-person,"United States",M,78,9004680
+2023,"Data Analysis",USD,Mid-level,In-person,"United States",M,148,15816004
+2023,"Data Science and Research",USD,Mid-level,In-person,"United States",L,22,4297400
+2023,"BI and Visualization",USD,Senior,In-person,"United States",M,100,15292282
+2023,"Data Engineering",USD,Senior,In-person,"United States",M,748,121587284
+2023,"BI and Visualization",USD,Mid-level,In-person,"United States",L,8,992000
+2023,"Data Analysis",USD,Senior,In-person,"United States",M,348,42840658
+2023,"Data Science and Research",USD,Senior,In-person,"United States",L,152,28744100
+2023,"Data Science and Research",USD,Entry-level,Remote,"United States",M,22,2395396
+2023,"Leadership and Management",USD,Senior,In-person,"United States",M,160,24181788
+2023,"Data Engineering",USD,Mid-level,In-person,"United States",M,205,27436387
+2023,"Machine Learning and AI",USD,Senior,In-person,Canada,M,14,2597800
+2023,"Data Engineering",GBP,Senior,In-person,"United Kingdom",M,10,933873
+2023,"Data Analysis",USD,Mid-level,Remote,"United States",M,78,6923117
+2023,"Data Engineering",USD,Mid-level,Remote,"United States",M,69,8656582
+2023,"Data Science and Research",USD,Mid-level,Remote,"United States",M,80,11457870
+2023,"Data Engineering",USD,Senior,Remote,"United States",M,336,53705707
+2023,"Data Science and Research",USD,Mid-level,In-person,"United States",M,200,29931231
+2023,"Data Quality and Operations",GBP,Entry-level,Remote,"United Kingdom",M,2,86128
+2023,"Data Engineering",USD,Mid-level,Remote,Canada,M,4,715000
+2023,"Data Analysis",USD,Senior,Remote,"United States",M,296,36094773
+2023,"Machine Learning and AI",USD,Senior,Remote,"United States",M,211,42527045
+2023,"Machine Learning and AI",USD,Entry-level,In-person,"United States",M,9,1340381
+2023,"Data Engineering",GBP,Mid-level,In-person,"United Kingdom",M,20,1654392
+2023,"Data Science and Research",EUR,Entry-level,In-person,Spain,M,2,74497
+2023,"Data Analysis",GBP,Entry-level,In-person,"United Kingdom",M,10,581485
+2023,"Data Science and Research",EUR,Senior,Hybrid,Ireland,L,1,75577
+2023,"Machine Learning and AI",CAD,Senior,Remote,Canada,M,2,403404
+2023,"Data Engineering",USD,Senior,In-person,"South Africa",M,2,200985
+2023,"Data Architecture and Modeling",USD,Mid-level,In-person,"United States",M,14,1626100
+2023,"Data Science and Research",USD,Entry-level,In-person,"United States",M,56,7287839
+2023,"Data Science and Research",EUR,Senior,In-person,Spain,M,28,1224342
+2023,"Data Analysis",USD,Senior,Remote,Poland,M,2,190000
+2023,"Data Analysis",GBP,Senior,Remote,"United Kingdom",S,1,36912
+2023,"Leadership and Management",GBP,Mid-level,In-person,"United Kingdom",M,14,1759472
+2023,"Leadership and Management",USD,Mid-level,Remote,"United States",M,15,1760029
+2023,"Data Engineering",USD,Senior,Remote,"United Kingdom",M,8,1137566
+2023,"Data Analysis",USD,Entry-level,Remote,"United States",M,30,2319680
+2023,"Data Analysis",GBP,Mid-level,In-person,"United Kingdom",M,34,2497771
+2023,"Machine Learning and AI",USD,Mid-level,Remote,"United States",M,25,3749150
+2023,"BI and Visualization",USD,Mid-level,Remote,"United States",M,14,1547848
+2023,"Machine Learning and AI",EUR,Senior,Hybrid,France,M,1,161952
+2023,"Data Analysis",USD,Executive,In-person,"United States",M,6,677500
+2023,"Data Architecture and Modeling",USD,Senior,Remote,"United States",M,76,13590908
+2023,"Machine Learning and AI",USD,Senior,Remote,Canada,M,14,2353800
+2023,"Leadership and Management",USD,Executive,Remote,"United States",M,10,2502200
+2023,"Data Science and Research",USD,Executive,In-person,"United States",M,32,7119700
+2023,"Data Architecture and Modeling",USD,Senior,In-person,"United States",L,2,361900
+2023,"Data Science and Research",USD,Senior,Remote,Canada,M,20,3455543
+2023,"BI and Visualization",USD,Senior,Remote,"United States",M,60,8121590
+2023,"Data Science and Research",USD,Executive,Remote,"United States",M,16,3366840
+2023,"BI and Visualization",USD,Senior,In-person,"United States",L,66,9351900
+2023,"Leadership and Management",USD,Senior,Remote,"United States",M,70,11073017
+2023,"BI and Visualization",USD,Mid-level,In-person,"United States",M,24,2635312
+2023,"Data Science and Research",GBP,Senior,Remote,"United Kingdom",M,6,762848
+2023,"Data Analysis",USD,Senior,Remote,Canada,M,8,1111500
+2023,"Data Engineering",USD,Mid-level,In-person,Canada,M,6,993200
+2023,"Data Science and Research",USD,Entry-level,In-person,"United States",L,7,1104140
+2023,"Data Science and Research",USD,Mid-level,In-person,"United States",S,1,100000
+2023,"Data Engineering",USD,Executive,In-person,"United States",M,56,9342884
+2023,"Data Management and Strategy",USD,Entry-level,Remote,"United States",M,8,678050
+2023,"Machine Learning and AI",USD,Mid-level,Remote,Canada,L,1,50000
+2023,"Data Science and Research",EUR,Mid-level,Remote,Spain,L,1,64781
+2023,"Data Science and Research",EUR,Entry-level,Hybrid,Netherlands,L,1,57223
+2023,"Data Science and Research",USD,Mid-level,Remote,Luxembourg,S,1,21000
+2023,"Data Architecture and Modeling",USD,Mid-level,Remote,"United States",M,8,1170000
+2023,"BI and Visualization",GBP,Mid-level,In-person,"United Kingdom",M,4,227624
+2023,"Data Management and Strategy",USD,Mid-level,In-person,"United States",M,12,1244000
+2023,"Data Architecture and Modeling",USD,Senior,Remote,Canada,M,2,297500
+2023,"Data Analysis",USD,Entry-level,Remote,Netherlands,M,1,25000
+2023,"Data Science and Research",USD,Senior,In-person,Canada,M,34,6433100
+2023,"Data Engineering",USD,Senior,Remote,Canada,M,8,1192000
+2023,"Machine Learning and AI",EUR,Senior,In-person,Lithuania,M,2,200820
+2023,"Data Analysis",USD,Senior,In-person,Canada,M,6,789000
+2023,"Machine Learning and AI",USD,Mid-level,Remote,Portugal,M,2,200000
+2023,"BI and Visualization",USD,Senior,In-person,Canada,M,6,738500
+2023,"Data Science and Research",USD,Senior,In-person,"United Kingdom",M,12,2034540
+2023,"Machine Learning and AI",USD,Senior,In-person,"United States",L,14,2747700
+2023,"Leadership and Management",EUR,Entry-level,Remote,Netherlands,M,1,37573
+2022,"Data Science and Research",GBP,Entry-level,Remote,"United Kingdom",L,1,36940
+2023,"Leadership and Management",USD,Executive,In-person,"United States",M,28,5036300
+2023,"Machine Learning and AI",EUR,Entry-level,Hybrid,Portugal,L,1,21593
+2023,"Data Engineering",USD,Entry-level,Remote,"United States",M,11,837710
+2023,"Data Analysis",USD,Entry-level,In-person,"United States",L,2,126900
+2023,"Data Engineering",USD,Entry-level,In-person,"United States",M,40,4274416
+2023,"Data Management and Strategy",USD,Senior,In-person,"United States",M,14,1418193
+2023,"Data Engineering",USD,Senior,In-person,"United States",L,28,4630300
+2023,"Data Engineering",USD,Senior,In-person,Canada,M,10,1470000
+2023,"Data Science and Research",GBP,Senior,In-person,"United Kingdom",M,2,295296
+2023,"BI and Visualization",USD,Entry-level,In-person,"United States",M,6,525500
+2023,"Data Science and Research",USD,Executive,In-person,"United States",L,2,412500
+2023,"BI and Visualization",USD,Mid-level,In-person,Canada,M,4,310336
+2023,"Machine Learning and AI",GBP,Mid-level,Remote,"United Kingdom",M,9,658262
+2023,"Machine Learning and AI",GBP,Senior,Remote,"United Kingdom",M,2,198094
+2023,"Data Quality and Operations",USD,Senior,In-person,"United States",M,22,2812230
+2023,"Data Science and Research",GBP,Executive,Remote,"United Kingdom",M,2,430640
+2023,"Data Analysis",GBP,Senior,Remote,Gibraltar,L,1,79976
+2023,"Machine Learning and AI",AUD,Senior,Remote,Australia,L,1,114979
+2023,"Data Engineering",EUR,Mid-level,Remote,France,M,4,244007
+2023,"Data Quality and Operations",USD,Mid-level,Remote,"United States",M,4,234740
+2023,"Machine Learning and AI",USD,Entry-level,Remote,"United States",M,2,126000
+2023,"Machine Learning and AI",USD,Senior,In-person,Colombia,M,2,160000
+2023,"Machine Learning and AI",USD,Entry-level,Remote,Ukraine,M,1,50000
+2023,"Machine Learning and AI",EUR,Senior,Remote,"United States",L,2,199741
+2023,"Data Analysis",EUR,Mid-level,In-person,Slovenia,M,2,85294
+2023,"Data Analysis",GBP,Senior,In-person,"United Kingdom",M,10,828527
+2023,"Data Analysis",USD,Entry-level,Hybrid,"United States",L,2,106500
+2023,"Machine Learning and AI",EUR,Senior,In-person,Romania,M,1,38868
+2023,"Data Management and Strategy",USD,Senior,Remote,"United States",M,4,555000
+2023,"Data Science and Research",EUR,Entry-level,Remote,Greece,L,1,19434
+2023,"Data Engineering",USD,Mid-level,In-person,Colombia,M,4,438000
+2023,"Machine Learning and AI",USD,Entry-level,In-person,"United States",L,1,76000
+2023,"Data Analysis",EUR,Mid-level,Remote,Portugal,M,4,188943
+2023,"Machine Learning and AI",USD,Senior,Remote,Ukraine,M,2,460000
+2023,"Machine Learning and AI",USD,Mid-level,In-person,"United States",L,2,475000
+2023,"Data Analysis",GBP,Mid-level,Remote,"United Kingdom",M,4,223994
+2023,"Data Engineering",EUR,Mid-level,Hybrid,France,M,1,80976
+2023,"Data Analysis",USD,Executive,Remote,"United States",M,6,680000
+2023,"Data Science and Research",CAD,Mid-level,Remote,Canada,S,1,96313
+2023,"Data Architecture and Modeling",USD,Senior,Remote,"United States",L,2,285000
+2023,"Machine Learning and AI",GBP,Mid-level,In-person,"United Kingdom",M,8,1080306
+2023,"Machine Learning and AI",EUR,Mid-level,In-person,Netherlands,M,1,75577
+2023,"Data Engineering",USD,Entry-level,Hybrid,India,M,1,18000
+2023,"Data Science and Research",EUR,Mid-level,In-person,Latvia,M,2,118548
+2023,"Data Engineering",GBP,Senior,Remote,"United Kingdom",M,4,451556
+2023,"Machine Learning and AI",EUR,Mid-level,Remote,"United Kingdom",M,1,48585
+2020,"Data Engineering",USD,Entry-level,In-person,Mauritius,S,1,100000
+2023,"Data Analysis",EUR,Mid-level,Hybrid,Germany,M,1,42107
+2023,"Data Science and Research",USD,Senior,Remote,"United States",L,4,679400
+2023,"Data Engineering",EUR,Mid-level,Remote,Poland,L,1,43187
+2023,"Data Analysis",USD,Mid-level,Remote,Russia,L,1,17000
+2020,"Data Analysis",CAD,Entry-level,Hybrid,Canada,L,1,44753
+2023,"Machine Learning and AI",USD,Entry-level,Remote,Germany,M,1,35000
+2023,"Machine Learning and AI",EUR,Senior,Remote,Italy,S,1,53984
+2023,"Machine Learning and AI",USD,Entry-level,Remote,"United States",L,1,130000
+2023,"Data Science and Research",GBP,Mid-level,Remote,"United Kingdom",M,8,596744
+2023,"Machine Learning and AI",GBP,Senior,In-person,"United Kingdom",M,4,658632
+2023,"Machine Learning and AI",USD,Senior,Remote,"United States",L,3,350000
+2023,"Machine Learning and AI",USD,Mid-level,In-person,"South Korea",S,1,54000
+2023,"Machine Learning and AI",USD,Executive,In-person,"United States",M,2,518000
+2023,"Data Management and Strategy",USD,Mid-level,Remote,"United States",M,6,463000
+2023,"Leadership and Management",GBP,Executive,In-person,"United Kingdom",M,2,430640
+2023,"Data Analysis",EUR,Mid-level,In-person,Estonia,M,4,178794
+2023,"Data Science and Research",PLN,Entry-level,In-person,Poland,M,1,34924
+2023,"Machine Learning and AI",USD,Executive,Remote,"United States",M,7,1370700
+2023,"Data Engineering",GBP,Mid-level,Remote,"United Kingdom",M,20,1413728
+2023,"Machine Learning and AI",USD,Mid-level,In-person,"United States",S,5,825000
+2023,"Data Architecture and Modeling",GBP,Senior,In-person,"United Kingdom",M,4,393728
+2023,"Leadership and Management",USD,Senior,Remote,"United States",L,3,585400
+2023,"Data Engineering",GBP,Executive,In-person,"United Kingdom",M,2,233776
+2023,"BI and Visualization",GBP,Senior,In-person,"United Kingdom",M,2,160874
+2023,"Machine Learning and AI",USD,Mid-level,Remote,"United States",S,6,620500
+2023,"Data Science and Research",EUR,Entry-level,Hybrid,Italy,L,1,29691
+2023,"Data Analysis",USD,Senior,Remote,"United States",S,4,425000
+2023,"Machine Learning and AI",USD,Senior,Remote,France,M,1,120000
+2023,"Data Engineering",CAD,Senior,Remote,Canada,M,2,196701
+2023,"Data Science and Research",EUR,Senior,Hybrid,"Czech Republic",L,1,107968
+2023,"Machine Learning and AI",EUR,Mid-level,Remote,Spain,L,2,71679
+2023,"Machine Learning and AI",EUR,Senior,Remote,Spain,M,3,204600
+2022,"Machine Learning and AI",USD,Entry-level,Hybrid,"United States",S,1,80000
+2023,"Leadership and Management",USD,Entry-level,Remote,"United States",M,2,275650
+2023,"Machine Learning and AI",EUR,Senior,Hybrid,Germany,L,2,178147
+2023,"Data Engineering",USD,Mid-level,In-person,"United States",L,2,221604
+2023,"Machine Learning and AI",BRL,Mid-level,Remote,Brazil,L,1,27568
+2023,"Data Engineering",USD,Entry-level,Hybrid,Canada,L,1,90000
+2023,"Data Engineering",USD,Mid-level,Remote,France,M,2,200000
+2023,"Data Management and Strategy",USD,Entry-level,In-person,Canada,M,4,400000
+2023,"Data Engineering",USD,Senior,Remote,Brazil,M,2,132000
+2023,"Leadership and Management",USD,Executive,Remote,Brazil,M,2,225000
+2023,"Machine Learning and AI",USD,Mid-level,Remote,Qatar,M,1,300000
+2023,"Data Analysis",USD,Senior,Remote,"United States",L,4,504400
+2023,"Data Engineering",GBP,Mid-level,Remote,Canada,M,2,147648
+2022,"Machine Learning and AI",EUR,Mid-level,Remote,Netherlands,L,1,97712
+2023,"Data Science and Research",EUR,Entry-level,Remote,Portugal,M,1,24940
+2023,"Data Science and Research",EUR,Mid-level,Remote,Italy,S,1,25912
+2023,"Data Science and Research",EUR,Senior,Hybrid,Netherlands,M,1,134960
+2023,"Data Science and Research",USD,Entry-level,In-person,"United Kingdom",M,2,293000
+2023,"Data Science and Research",EUR,Senior,Remote,Spain,M,3,169853
+2023,"Data Science and Research",EUR,Senior,Remote,Italy,M,2,104158
+2022,"Data Science and Research",EUR,Entry-level,Remote,Russia,M,1,16455
+2023,"Data Analysis",USD,Entry-level,Remote,Kenya,S,1,50000
+2023,"Machine Learning and AI",USD,Senior,In-person,"United Kingdom",M,16,3135370
+2023,"BI and Visualization",USD,Executive,In-person,"United States",M,6,1113400
+2023,"Data Science and Research",USD,Senior,Remote,Russia,L,1,36000
+2023,"Data Engineering",GBP,Entry-level,Remote,"United Kingdom",M,4,184560
+2023,"Machine Learning and AI",USD,Senior,Remote,India,L,1,160000
+2023,"Data Engineering",EUR,Senior,Remote,Spain,M,3,233821
+2023,"Data Architecture and Modeling",USD,Senior,Remote,"United Kingdom",M,4,460000
+2023,"Data Engineering",EUR,Senior,Remote,Germany,M,2,198567
+2023,"Data Science and Research",CAD,Mid-level,Remote,Canada,L,2,143953
+2023,"Leadership and Management",USD,Senior,Remote,Canada,M,6,808000
+2023,"Machine Learning and AI",USD,Senior,Remote,"United Kingdom",M,6,923244
+2023,"Data Engineering",EUR,Senior,Remote,Italy,M,2,138010
+2023,"BI and Visualization",EUR,Mid-level,Remote,Denmark,L,1,64781
+2023,"Data Engineering",USD,Senior,In-person,"United Kingdom",M,4,619500
+2023,"Data Science and Research",USD,Mid-level,Remote,"United Kingdom",M,2,235000
+2022,"BI and Visualization",USD,Mid-level,Remote,Ghana,M,1,15000
+2023,"Data Science and Research",EUR,Senior,In-person,Germany,L,1,64781
+2023,"Data Science and Research",EUR,Executive,Hybrid,Netherlands,L,1,131721
+2023,"Data Engineering",EUR,Senior,Hybrid,Germany,L,1,77737
+2023,"Data Engineering",EUR,Senior,Remote,Sweden,L,1,86374
+2023,"Data Engineering",USD,Executive,Remote,"United Kingdom",M,2,329256
+2023,"Machine Learning and AI",USD,Entry-level,In-person,"South Korea",S,1,40000
+2023,"Data Analysis",EUR,Senior,In-person,Estonia,M,2,91988
+2023,"Data Science and Research",EUR,Entry-level,In-person,France,M,1,32390
+2023,"Data Analysis",USD,Senior,In-person,"United States",L,4,644900
+2023,"Data Analysis",USD,Senior,Remote,"United Kingdom",M,6,804800
+2023,"Data Engineering",EUR,Senior,In-person,Estonia,M,2,101058
+2023,"Machine Learning and AI",USD,Mid-level,In-person,Australia,M,6,1550000
+2023,"Data Analysis",USD,Senior,In-person,"United Kingdom",M,12,1534085
+2021,"Machine Learning and AI",USD,Senior,Hybrid,"United States",M,1,185000
+2020,"Data Science and Research",USD,Senior,Hybrid,"United States",M,1,164000
+2023,"Data Engineering",CAD,Senior,Remote,Canada,L,1,118539
+2023,"Data Analysis",GBP,Mid-level,Hybrid,"United Kingdom",L,1,86128
+2023,"Data Analysis",CAD,Entry-level,In-person,Canada,L,2,81494
+2023,"BI and Visualization",TRY,Senior,Remote,Turkey,L,1,18381
+2023,"Machine Learning and AI",USD,Mid-level,Remote,France,M,2,110000
+2023,"Leadership and Management",USD,Executive,Remote,"United States",L,1,290000
+2023,"Data Quality and Operations",EUR,Entry-level,Hybrid,Portugal,L,1,23753
+2023,"Machine Learning and AI",EUR,Senior,Remote,Germany,M,2,344418
+2023,"Data Science and Research",GBP,Entry-level,In-person,"United Kingdom",M,2,86128
+2023,"Machine Learning and AI",BRL,Senior,Hybrid,Brazil,L,1,38290
+2023,"Machine Learning and AI",EUR,Executive,Remote,"United States",L,1,215936
+2023,"Leadership and Management",USD,Senior,Remote,"United Kingdom",M,6,1043800
+2023,"Data Analysis",CAD,Mid-level,Hybrid,Canada,L,1,67419
+2023,"Data Science and Research",USD,Executive,Remote,"United Kingdom",M,4,746792
+2023,"Machine Learning and AI",USD,Mid-level,In-person,"United Kingdom",M,2,500000
+2023,"Data Science and Research",CHF,Entry-level,Hybrid,Switzerland,S,1,104024
+2023,"Data Science and Research",EUR,Mid-level,Hybrid,Andorra,S,1,50745
+2023,"Machine Learning and AI",CAD,Entry-level,Remote,Canada,L,1,74087
+2023,"Data Science and Research",EUR,Entry-level,In-person,Netherlands,L,1,32390
+2023,"Leadership and Management",USD,Entry-level,In-person,"United States",M,2,174000
+2023,"Data Quality and Operations",USD,Senior,Remote,"United States",M,6,708270
+2023,"Data Science and Research",USD,Entry-level,Remote,Ecuador,L,1,16000
+2023,"Data Engineering",USD,Mid-level,Remote,Portugal,S,1,27000
+2023,"Leadership and Management",USD,Executive,Remote,Mexico,S,1,72000
+2020,"Data Analysis",EUR,Entry-level,In-person,Germany,L,1,47899
+2023,"Machine Learning and AI",USD,Senior,Remote,Israel,S,1,115000
+2023,"Data Quality and Operations",USD,Mid-level,In-person,"United States",M,6,445000
+2023,"Machine Learning and AI",USD,Entry-level,Remote,Turkey,S,1,20000
+2020,"Data Science and Research",USD,Executive,Remote,"United States",L,2,625000
+2023,"Data Architecture and Modeling",GBP,Mid-level,In-person,"United Kingdom",M,6,498312
+2023,"Machine Learning and AI",USD,Senior,Remote,"United States",S,2,300000
+2023,"Data Analysis",USD,Entry-level,In-person,Nigeria,S,1,40000
+2023,"Data Engineering",USD,Senior,Remote,"United States",L,1,210000
+2023,"Data Science and Research",USD,Mid-level,Remote,"Saudi Arabia",M,1,90000
+2023,"Data Analysis",EUR,Mid-level,Hybrid,Germany,L,1,59382
+2023,"Data Engineering",USD,Mid-level,Remote,Colombia,M,2,132000
+2023,"Data Science and Research",USD,Mid-level,Remote,Canada,M,2,315000
+2023,"Machine Learning and AI",AUD,Mid-level,Remote,Australia,L,1,81838
+2023,"Data Analysis",USD,Entry-level,Remote,"United States",L,4,319000
+2023,"Data Science and Research",USD,Mid-level,Remote,"United States",L,1,20000
+2021,"Data Analysis",USD,Mid-level,Remote,"United States",M,3,246000
+2022,"Data Science and Research",USD,Senior,Remote,"United States",L,20,3547068
+2023,"Data Engineering",PLN,Senior,Remote,Poland,L,1,46565
+2023,"Data Analysis",USD,Mid-level,In-person,Australia,M,2,307500
+2023,"Leadership and Management",USD,Mid-level,In-person,"United Kingdom",M,2,258500
+2023,"Data Engineering",GBP,Entry-level,Remote,"United Kingdom",L,1,177177
+2023,"Data Science and Research",USD,Senior,In-person,"United States",S,2,382000
+2023,"Machine Learning and AI",USD,Senior,In-person,France,M,2,424000
+2023,"Leadership and Management",GBP,Senior,Hybrid,"United Kingdom",L,1,399880
+2023,"Data Engineering",EUR,Entry-level,Remote,Spain,L,1,41027
+2023,"BI and Visualization",USD,Senior,Remote,Canada,M,2,216500
+2023,"Data Science and Research",USD,Mid-level,Hybrid,"United Kingdom",L,1,280000
+2023,"Data Analysis",USD,Mid-level,Remote,"United States",L,2,223000
+2023,"Data Engineering",EUR,Mid-level,Remote,Spain,M,5,322823
+2023,"Data Analysis",USD,Mid-level,In-person,"United Kingdom",M,2,166500
+2023,"Data Science and Research",GBP,Executive,In-person,"United Kingdom",M,4,740442
+2023,"Leadership and Management",GBP,Executive,Remote,"United Kingdom",M,2,246080
+2023,"Data Analysis",USD,Mid-level,In-person,Ghana,S,1,36000
+2023,"Data Engineering",USD,Senior,Remote,Argentina,M,4,260000
+2023,"Data Analysis",USD,Mid-level,Remote,"Saudi Arabia",S,1,179998
+2023,"Data Science and Research",USD,Mid-level,In-person,India,L,1,35000
+2023,"Data Architecture and Modeling",USD,Mid-level,Remote,"United States",L,1,258000
+2023,"Data Analysis",USD,Entry-level,Hybrid,"United States",S,1,83200
+2023,"Data Engineering",USD,Senior,In-person,Germany,M,2,346700
+2023,"Data Analysis",USD,Senior,Remote,Colombia,M,2,144000
+2021,"Machine Learning and AI",USD,Senior,Remote,Nigeria,M,1,60000
+2023,"BI and Visualization",USD,Senior,Remote,Japan,L,1,160000
+2023,"Data Science and Research",USD,Senior,In-person,France,M,2,393000
+2023,"Data Science and Research",CAD,Entry-level,Hybrid,Canada,L,1,77791
+2022,"Data Science and Research",GBP,Mid-level,Remote,"United Kingdom",M,3,289362
+2023,"Data Analysis",USD,Senior,Remote,Russia,L,1,57000
+2023,"Machine Learning and AI",USD,Mid-level,Hybrid,"United Kingdom",M,1,120000
+2023,"Data Science and Research",USD,Senior,Remote,"United Kingdom",M,2,282800
+2020,"Data Analysis",USD,Mid-level,In-person,Nigeria,M,1,60000
+2023,"Data Engineering",USD,Entry-level,Hybrid,"United States",L,1,100000
+2023,"Data Analysis",EUR,Senior,Remote,"United States",M,1,323905
+2023,"Data Science and Research",USD,Mid-level,Hybrid,Nigeria,M,1,36000
+2023,"Data Quality and Operations",USD,Senior,In-person,"United Kingdom",M,2,221000
+2023,"Data Engineering",USD,Senior,Remote,Colombia,M,2,132000
+2023,"Machine Learning and AI",USD,Mid-level,Remote,Germany,M,1,120000
+2023,"Leadership and Management",USD,Senior,Remote,Nigeria,S,1,50000
+2022,"Data Science and Research",EUR,Mid-level,Hybrid,"United Kingdom",S,1,105066
+2023,"Leadership and Management",USD,Senior,In-person,"United Kingdom",M,2,503800
+2023,"Machine Learning and AI",EUR,Senior,Remote,Italy,M,2,133016
+2023,"Data Science and Research",EUR,Senior,Remote,Spain,L,1,86374
+2023,"Data Science and Research",USD,Senior,In-person,Germany,M,2,449000
+2023,"Data Architecture and Modeling",USD,Senior,In-person,Canada,M,2,162000
+2023,"Data Analysis",USD,Entry-level,Remote,Nigeria,L,1,30000
+2023,"Machine Learning and AI",EUR,Mid-level,Remote,Germany,S,1,70179
+2023,"Machine Learning and AI",EUR,Mid-level,Remote,Netherlands,L,1,97171
+2023,"Data Science and Research",USD,Entry-level,Hybrid,"United States",L,1,220000
+2022,"Machine Learning and AI",CHF,Entry-level,Remote,Switzerland,S,1,56536
+2023,"Data Analysis",USD,Mid-level,Hybrid,"United States",L,1,105000
+2023,"Data Analysis",GBP,Senior,Remote,"Central African Republic",M,2,98432
+2020,"Data Analysis",USD,Executive,In-person,Canada,M,1,15000
+2023,"Data Engineering",EUR,Senior,Hybrid,France,S,1,53984
+2023,"Data Science and Research",AUD,Senior,Remote,Finland,M,1,67635
+2023,"Machine Learning and AI",SGD,Mid-level,In-person,Finland,M,1,74883
+2022,"Data Science and Research",EUR,Senior,Remote,"United Kingdom",L,1,88256
+2022,"Machine Learning and AI",USD,Senior,In-person,Canada,S,1,275000
+2023,"Machine Learning and AI",USD,Senior,Hybrid,Ukraine,S,1,50000
+2023,"Data Science and Research",CAD,Entry-level,Remote,Canada,L,1,51861
+2023,"Data Analysis",USD,Mid-level,In-person,"United States",L,1,68000
+2023,"Data Architecture and Modeling",USD,Executive,In-person,"United States",M,2,335000
+2023,"Data Science and Research",USD,Senior,In-person,Ireland,M,2,285000
+2022,"Data Engineering",EUR,Entry-level,Remote,Netherlands,L,1,59888
+2023,"Data Analysis",EUR,Entry-level,In-person,Spain,M,1,21593
+2023,"Machine Learning and AI",USD,Senior,In-person,Ukraine,M,2,168000
+2023,"Machine Learning and AI",USD,Mid-level,Hybrid,"United States",L,2,354000
+2023,"Data Science and Research",EUR,Mid-level,In-person,Ireland,M,2,178147
+2023,"Machine Learning and AI",EUR,Entry-level,Hybrid,Germany,M,1,43187
+2023,"Data Science and Research",CHF,Entry-level,Hybrid,Switzerland,L,1,122638
+2022,"Data Science and Research",EUR,Mid-level,Remote,Germany,M,1,73546
+2022,"Data Science and Research",EUR,Senior,Remote,Ireland,L,1,172309
+2023,"Data Science and Research",EUR,Mid-level,Remote,Germany,M,1,60462
+2023,"Cloud and Database",USD,Senior,Remote,"United States",L,1,170000
+2023,"Leadership and Management",USD,Senior,In-person,Colombia,M,2,113000
+2023,"Data Engineering",SGD,Mid-level,Remote,Singapore,L,1,74883
+2023,"Machine Learning and AI",USD,Entry-level,In-person,Australia,L,1,70000
+2023,"Machine Learning and AI",USD,Entry-level,Hybrid,Sweden,M,1,80000
+2023,"Data Science and Research",EUR,Mid-level,In-person,Spain,M,2,107967
+2023,"Data Engineering",EUR,Mid-level,Remote,Slovenia,M,2,124162
+2022,"BI and Visualization",USD,Senior,Remote,"United States",L,1,130000
+2021,"Data Science and Research",USD,Mid-level,Remote,"United States",M,2,300000
+2023,"Data Analysis",USD,Mid-level,Remote,Canada,M,2,230000
+2023,"Machine Learning and AI",EUR,Senior,In-person,Germany,L,1,124163
+2023,"Machine Learning and AI",EUR,Entry-level,Remote,Germany,L,1,215936
+2023,"Data Engineering",USD,Mid-level,Remote,Mexico,M,2,132000
+2023,"Data Science and Research",EUR,Mid-level,Hybrid,France,M,1,64781
+2023,"Data Engineering",USD,Senior,Hybrid,Australia,M,1,50000
+2023,"Data Analysis",USD,Entry-level,Hybrid,India,M,1,30000
+2022,"Data Analysis",USD,Entry-level,Remote,"United States",S,2,89320
+2023,"Leadership and Management",EUR,Senior,Remote,Portugal,L,1,75577
+2022,"Data Science and Research",USD,Executive,In-person,Russia,L,1,106000
+2023,"Data Science and Research",USD,Senior,Remote,Mexico,M,2,240000
+2023,"Data Analysis",EUR,Senior,Remote,Germany,M,1,72338
+2023,"Machine Learning and AI",EUR,Entry-level,In-person,Germany,M,1,64781
+2023,"Data Science and Research",USD,Mid-level,Hybrid,France,L,1,40000
+2023,"Data Science and Research",EUR,Senior,Remote,Germany,S,2,194342
+2023,"Machine Learning and AI",USD,Senior,In-person,Germany,M,2,449000
+2023,"Leadership and Management",GBP,Senior,In-person,"United Kingdom",M,2,128901
+2022,"Data Science and Research",USD,Entry-level,Remote,"United States",M,5,728000
+2023,"Machine Learning and AI",EUR,Mid-level,Hybrid,Spain,L,1,38868
+2023,"Data Engineering",GBP,Mid-level,Remote,"United Kingdom",L,1,116888
+2021,"Machine Learning and AI",USD,Mid-level,In-person,Ghana,S,1,30000
+2023,"Data Analysis",GBP,Mid-level,In-person,Croatia,M,2,184560
+2023,"Data Analysis",PLN,Entry-level,Remote,India,L,1,18160
+2023,"Data Science and Research",BRL,Entry-level,Remote,Brazil,L,1,19910
+2023,"Machine Learning and AI",EUR,Senior,Remote,France,M,2,183545
+2022,"Data Science and Research",USD,Entry-level,In-person,"United States",M,7,659774
+2023,"Data Science and Research",USD,Entry-level,Remote,"United Kingdom",M,2,180000
+2023,"Data Analysis",EUR,Senior,Remote,Spain,M,2,107967
+2023,"Data Architecture and Modeling",GBP,Senior,Remote,"United Kingdom",L,1,153799
+2023,"Data Science and Research",USD,Senior,In-person,Spain,M,4,845900
+2022,"Machine Learning and AI",USD,Senior,Remote,"United States",M,38,7001200
+2023,"Data Engineering",EUR,Senior,Remote,Ireland,M,1,102569
+2023,"Data Analysis",USD,Entry-level,Hybrid,"United States",M,1,100000
+2023,"Machine Learning and AI",USD,Mid-level,Remote,Mexico,S,1,36000
+2023,"Machine Learning and AI",EUR,Senior,Remote,Canada,L,1,53984
+2023,"Data Science and Research",USD,Entry-level,Hybrid,"United States",S,1,110000
+2023,"Data Science and Research",CAD,Senior,Hybrid,Canada,M,1,125948
+2023,"Data Engineering",USD,Senior,Hybrid,Netherlands,L,1,100000
+2023,"Data Engineering",EUR,Entry-level,Remote,Germany,L,1,26992
+2022,"Data Science and Research",USD,Mid-level,Remote,India,L,1,23000
+2023,"Machine Learning and AI",USD,Mid-level,Remote,"United States",L,1,110000
+2023,"Data Engineering",USD,Entry-level,Remote,Sweden,S,1,130000
+2022,"Data Science and Research",USD,Mid-level,Remote,"United States",L,5,710000
+2021,"Data Engineering",SGD,Entry-level,Hybrid,Singapore,L,1,66970
+2023,"Data Science and Research",EUR,Senior,Hybrid,Estonia,L,1,63701
+2023,"Data Analysis",USD,Entry-level,Remote,"United States",S,1,30000
+2022,"Machine Learning and AI",EUR,Senior,Hybrid,France,L,1,84053
+2023,"Machine Learning and AI",USD,Mid-level,In-person,Armenia,S,1,50000
+2022,"Data Analysis",USD,Entry-level,Hybrid,"United States",L,4,248000
+2023,"Machine Learning and AI",USD,Entry-level,Hybrid,"Bosnia and Herzegovina",S,1,120000
+2023,"Data Science and Research",USD,Mid-level,Remote,Kenya,S,1,80000
+2023,"Data Science and Research",EUR,Senior,In-person,Latvia,M,2,116605
+2023,"Data Science and Research",EUR,Mid-level,Hybrid,Romania,L,1,53984
+2023,"Data Analysis",EUR,Senior,In-person,Spain,M,4,185702
+2023,"Machine Learning and AI",EUR,Senior,In-person,Latvia,M,2,116605
+2023,"Data Engineering",USD,Mid-level,Remote,Spain,M,2,175000
+2023,"Cloud and Database",USD,Senior,Remote,"United States",M,2,255000
+2023,"Data Science and Research",GBP,Mid-level,In-person,"United Kingdom",L,1,73824
+2022,"Data Analysis",EUR,Entry-level,Remote,"United States",L,1,25216
+2023,"Data Engineering",EUR,Senior,In-person,Portugal,M,2,107967
+2022,"Leadership and Management",USD,Senior,In-person,Netherlands,L,1,133000
+2022,"Leadership and Management",USD,Senior,Remote,"United States",L,2,530000
+2022,"Data Engineering",USD,Senior,In-person,"United States",M,168,25113759
+2022,"Data Science and Research",USD,Senior,In-person,"United States",M,118,19192177
+2022,"Data Analysis",USD,Mid-level,In-person,"United States",M,41,5153560
+2022,"Data Science and Research",USD,Mid-level,Remote,"United States",M,22,2980060
+2022,"Data Science and Research",USD,Senior,Remote,"United States",M,179,29382437
+2022,"Data Engineering",USD,Mid-level,In-person,"United States",M,26,2925599
+2022,"Data Science and Research",USD,Entry-level,Remote,Pakistan,M,1,40000
+2022,"Machine Learning and AI",USD,Entry-level,Remote,Australia,M,2,80000
+2022,"Data Engineering",USD,Senior,Remote,"United States",M,147,22848806
+2022,"Data Science and Research",EUR,Mid-level,Remote,France,M,4,262666
+2022,"Machine Learning and AI",USD,Senior,Remote,Canada,M,6,1130500
+2022,"Data Engineering",USD,Mid-level,Remote,"United States",M,20,2774000
+2022,"Data Engineering",USD,Entry-level,In-person,"United States",M,14,1920000
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,Italy,M,1,24165
+2022,"Data Analysis",USD,Senior,Remote,"United States",M,89,10296670
+2022,"Data Science and Research",USD,Mid-level,In-person,"United States",M,14,1953400
+2022,"Cloud and Database",USD,Senior,Remote,"United States",M,2,350000
+2022,"Data Analysis",USD,Entry-level,Remote,"United States",M,1,100000
+2022,"Data Science and Research",GBP,Mid-level,In-person,"United Kingdom",M,12,978907
+2022,"Machine Learning and AI",USD,Senior,In-person,"United States",M,36,6298038
+2022,"Data Analysis",USD,Mid-level,Remote,"United States",M,18,1839240
+2022,"Machine Learning and AI",PLN,Mid-level,Remote,Poland,S,1,44365
+2022,"Data Engineering",USD,Executive,In-person,"United States",M,2,345000
+2022,"Data Engineering",GBP,Mid-level,Remote,"United Kingdom",M,16,1286739
+2022,"Data Engineering",USD,Executive,Remote,"United States",M,12,2940800
+2022,"Data Analysis",USD,Senior,In-person,"United States",M,68,8333328
+2022,"Data Engineering",EUR,Senior,In-person,Spain,M,8,430770
+2022,"Machine Learning and AI",USD,Senior,Remote,Colombia,L,1,125000
+2022,"Data Science and Research",EUR,Senior,In-person,Spain,M,14,595728
+2022,"Leadership and Management",USD,Mid-level,Remote,"United States",M,4,415500
+2022,"Data Analysis",USD,Entry-level,In-person,"United States",M,2,103000
+2022,"Machine Learning and AI",EUR,Mid-level,Remote,France,S,1,58837
+2022,"Data Science and Research",USD,Executive,Remote,"United States",M,4,680875
+2022,"Machine Learning and AI",USD,Senior,Remote,Mexico,M,2,440000
+2022,"Data Analysis",GBP,Mid-level,In-person,"United Kingdom",M,4,591039
+2022,"Data Analysis",EUR,Senior,In-person,Spain,M,8,351972
+2022,"Data Analysis",EUR,Entry-level,In-person,Germany,L,1,60938
+2022,"BI and Visualization",USD,Senior,Remote,"United States",M,2,260000
+2022,"Machine Learning and AI",USD,Mid-level,Remote,"United States",M,10,1293000
+2022,"Machine Learning and AI",USD,Entry-level,Hybrid,Canada,L,1,200000
+2022,"Data Management and Strategy",USD,Senior,In-person,"United States",M,4,360000
+2022,"Data Architecture and Modeling",USD,Senior,Remote,"United States",M,30,5048811
+2022,"Machine Learning and AI",USD,Senior,Remote,"United States",L,11,1861800
+2022,"Machine Learning and AI",USD,Mid-level,In-person,"United States",M,11,1563200
+2022,"Leadership and Management",USD,Senior,Remote,"United States",M,25,3697690
+2022,"Data Engineering",EUR,Mid-level,In-person,Lithuania,M,2,189624
+2020,"Data Analysis",USD,Mid-level,In-person,"United States",M,2,193000
+2021,"Data Analysis",USD,Senior,Remote,"United States",S,2,195000
+2022,"Data Analysis",USD,Senior,Remote,Australia,L,1,171000
+2022,"Leadership and Management",USD,Entry-level,Remote,"United States",S,1,50000
+2022,"Data Science and Research",EUR,Mid-level,In-person,Germany,M,2,125028
+2022,"Data Engineering",USD,Senior,In-person,Canada,M,2,310000
+2022,"Data Analysis",GBP,Senior,In-person,"United Kingdom",M,4,310295
+2022,"Machine Learning and AI",CAD,Mid-level,Hybrid,Canada,L,1,105236
+2022,"Machine Learning and AI",USD,Entry-level,In-person,"United States",M,3,455000
+2022,"Machine Learning and AI",EUR,Senior,Remote,France,M,2,189119
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,Germany,L,1,66192
+2022,"Data Engineering",USD,Senior,In-person,"United States",L,12,1917986
+2022,"Data Analysis",USD,Mid-level,Remote,"United States",L,3,327500
+2022,"Leadership and Management",USD,Senior,In-person,"United States",M,14,2311500
+2022,"Leadership and Management",USD,Mid-level,In-person,"United States",M,8,1013000
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,Spain,L,1,27317
+2022,"Data Management and Strategy",USD,Mid-level,In-person,"United States",M,2,300000
+2022,"Machine Learning and AI",GBP,Mid-level,Remote,"United Kingdom",M,2,135446
+2022,"Machine Learning and AI",USD,Entry-level,Remote,Iran,M,1,100000
+2022,"Data Analysis",EUR,Mid-level,Hybrid,France,M,1,105066
+2022,"Leadership and Management",GBP,Mid-level,In-person,"United Kingdom",M,2,178543
+2022,"Data Analysis",USD,Mid-level,In-person,Canada,M,4,325000
+2022,"Data Engineering",EUR,Senior,In-person,Portugal,M,4,215385
+2022,"Data Management and Strategy",EUR,Senior,In-person,Italy,L,1,68293
+2022,"Data Engineering",GBP,Senior,Remote,"United Kingdom",M,4,291553
+2021,"Machine Learning and AI",USD,Mid-level,Hybrid,Bahamas,M,1,45555
+2022,"Data Science and Research",USD,Senior,Hybrid,"United States",L,2,519000
+2022,"Machine Learning and AI",GBP,Mid-level,In-person,"United Kingdom",M,4,394025
+2022,"Machine Learning and AI",CHF,Mid-level,Remote,Switzerland,L,1,104697
+2022,"Machine Learning and AI",USD,Entry-level,Remote,Germany,S,1,33000
+2022,"Machine Learning and AI",EUR,Entry-level,Remote,Germany,S,1,34672
+2022,"Data Science and Research",EUR,Mid-level,Hybrid,Austria,L,1,89306
+2022,"Leadership and Management",USD,Entry-level,Remote,"United States",M,2,122900
+2022,"Leadership and Management",USD,Executive,In-person,"United States",M,2,365000
+2022,"Data Engineering",GBP,Entry-level,Remote,"United Kingdom",M,4,203168
+2022,"Data Science and Research",USD,Senior,In-person,"United States",L,20,3185980
+2022,"Data Science and Research",GBP,Mid-level,Hybrid,"United Kingdom",M,2,137908
+2022,"Data Analysis",USD,Entry-level,Remote,"United States",L,4,317000
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,France,L,1,39925
+2022,"BI and Visualization",USD,Entry-level,Hybrid,"United States",L,1,76000
+2022,"Leadership and Management",GBP,Senior,In-person,"United Kingdom",M,2,195782
+2022,"Data Analysis",USD,Entry-level,Hybrid,"United States",S,1,125404
+2022,"Data Quality and Operations",USD,Senior,In-person,"United States",M,4,390250
+2022,"Leadership and Management",USD,Executive,Remote,"United States",M,6,1027000
+2022,"Data Architecture and Modeling",USD,Senior,In-person,"United States",M,10,1654900
+2022,"Data Science and Research",USD,Mid-level,Remote,Mexico,L,1,30000
+2022,"Leadership and Management",USD,Mid-level,Remote,Brazil,M,2,126000
+2022,"Data Engineering",USD,Mid-level,Remote,Brazil,M,2,120000
+2022,"BI and Visualization",USD,Mid-level,Remote,Brazil,M,2,126000
+2022,"Data Science and Research",USD,Mid-level,Remote,Brazil,M,2,138000
+2022,"Data Science and Research",USD,Entry-level,Remote,"United States",L,2,200000
+2022,"Data Analysis",USD,Senior,Remote,"United Kingdom",S,1,200000
+2022,"Data Science and Research",CAD,Entry-level,Remote,Canada,L,2,124823
+2022,"Data Science and Research",USD,Senior,Hybrid,"United States",S,1,165000
+2022,"Data Science and Research",GBP,Entry-level,Hybrid,"United Kingdom",L,1,33246
+2021,"Data Engineering",AUD,Mid-level,Hybrid,Australia,L,1,75050
+2022,"Machine Learning and AI",USD,Entry-level,In-person,"United States",S,1,108000
+2022,"Data Engineering",GBP,Mid-level,In-person,"United Kingdom",M,12,1094652
+2022,"Data Science and Research",USD,Senior,Remote,"United States",S,2,175000
+2022,"Machine Learning and AI",USD,Mid-level,Remote,"United States",L,6,794000
+2022,"Data Engineering",CAD,Senior,Hybrid,Canada,M,1,161311
+2022,"Data Science and Research",AUD,Mid-level,In-person,Australia,L,1,83171
+2022,"Data Science and Research",USD,Mid-level,Hybrid,"United States",L,2,253000
+2022,"Leadership and Management",CAD,Executive,Hybrid,Canada,L,1,125976
+2022,"Data Science and Research",EUR,Mid-level,Remote,Germany,S,2,136586
+2022,"BI and Visualization",USD,Senior,Remote,Nigeria,S,1,200000
+2022,"Machine Learning and AI",EUR,Senior,Remote,Portugal,L,1,69344
+2022,"Data Science and Research",EUR,Mid-level,In-person,Germany,S,2,210133
+2022,"Data Analysis",AUD,Mid-level,Hybrid,Australia,L,1,45050
+2021,"Data Analysis",AUD,Entry-level,Hybrid,Australia,L,1,42028
+2022,"Leadership and Management",USD,Mid-level,Remote,"United States",L,2,248000
+2022,"Data Engineering",USD,Senior,Remote,"United States",L,12,1942500
+2022,"Data Analysis",USD,Entry-level,Hybrid,"United States",M,1,20000
+2022,"Machine Learning and AI",USD,Senior,In-person,Canada,M,2,250000
+2022,"Machine Learning and AI",USD,Entry-level,Remote,"United States",M,1,50000
+2022,"Data Management and Strategy",USD,Entry-level,Remote,"United States",L,1,105000
+2022,"Machine Learning and AI",USD,Senior,Remote,"Puerto Rico",M,2,335000
+2022,"Data Quality and Operations",USD,Mid-level,Remote,"United States",M,6,480000
+2022,"Machine Learning and AI",EUR,Entry-level,Remote,Spain,M,1,31520
+2022,"Data Architecture and Modeling",USD,Senior,Remote,"United States",L,4,653400
+2022,"Machine Learning and AI",USD,Mid-level,Remote,"United States",S,2,180000
+2022,"Machine Learning and AI",EUR,Senior,Hybrid,Finland,S,1,63040
+2022,"Data Analysis",USD,Entry-level,Remote,"American Samoa",L,1,50000
+2022,"Machine Learning and AI",USD,Senior,In-person,"United States",L,1,108000
+2021,"Data Science and Research",USD,Entry-level,Hybrid,France,M,1,20000
+2022,"Data Science and Research",USD,Executive,In-person,"United States",M,4,840400
+2021,"Machine Learning and AI",USD,Entry-level,Remote,Thailand,L,1,15000
+2022,"Data Science and Research",EUR,Senior,Hybrid,France,L,2,147092
+2021,"Data Engineering",GBP,Entry-level,Hybrid,"United Kingdom",L,1,45390
+2022,"Data Science and Research",EUR,Mid-level,Hybrid,Netherlands,L,1,73546
+2022,"Data Science and Research",USD,Entry-level,Hybrid,Germany,M,1,50000
+2022,"Data Engineering",EUR,Mid-level,Remote,Greece,M,6,425518
+2022,"Data Engineering",EUR,Mid-level,Remote,Spain,M,6,425518
+2022,"Leadership and Management",GBP,Senior,Remote,"United Kingdom",M,2,182704
+2022,"Data Analysis",USD,Senior,In-person,"United States",L,1,115000
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,Spain,M,1,31520
+2022,"Data Quality and Operations",USD,Senior,Remote,"United States",M,2,147000
+2022,"Data Engineering",USD,Entry-level,Remote,"United States",L,3,295000
+2022,"Machine Learning and AI",USD,Executive,Remote,"United States",S,3,580000
+2021,"Machine Learning and AI",DKK,Entry-level,Hybrid,Denmark,L,1,19073
+2022,"Data Management and Strategy",USD,Senior,Remote,"United States",M,2,165000
+2022,"Data Analysis",USD,Mid-level,In-person,"United States",L,1,113000
+2021,"Data Analysis",USD,Senior,Remote,Philippines,S,1,50000
+2022,"Data Analysis",AUD,Mid-level,Remote,Australia,M,1,53368
+2022,"Data Science and Research",EUR,Senior,Hybrid,Portugal,S,1,29944
+2022,"Data Science and Research",EUR,Mid-level,Remote,Netherlands,S,1,54634
+2022,"Data Engineering",USD,Senior,Remote,Canada,M,2,323200
+2022,"Machine Learning and AI",GBP,Mid-level,Hybrid,"United Kingdom",L,1,128058
+2022,"Data Science and Research",USD,Entry-level,In-person,"United States",L,1,82000
+2022,"Data Science and Research",USD,Entry-level,Remote,France,M,1,110000
+2022,"Machine Learning and AI",USD,Mid-level,Hybrid,"United States",M,2,326000
+2022,"Data Science and Research",EUR,Mid-level,In-person,Netherlands,M,2,204879
+2022,"Data Engineering",USD,Senior,Remote,"Puerto Rico",M,2,335000
+2022,"Machine Learning and AI",GBP,Entry-level,Remote,"United Kingdom",S,1,55410
+2022,"Data Analysis",EUR,Mid-level,Remote,Germany,S,1,50432
+2022,"Data Analysis",USD,Entry-level,Remote,Argentina,L,1,50000
+2022,"Data Science and Research",EUR,Entry-level,Remote,Belgium,L,1,84053
+2022,"Data Science and Research",GBP,Mid-level,Hybrid,"United Kingdom",S,1,61566
+2022,"Machine Learning and AI",USD,Entry-level,Hybrid,"United States",L,1,115000
+2022,"Data Science and Research",USD,Entry-level,Hybrid,Austria,M,1,50000
+2021,"Data Architecture and Modeling",USD,Senior,Hybrid,"United States",L,1,250000
+2022,"Data Science and Research",EUR,Executive,In-person,Netherlands,L,1,84053
+2022,"Leadership and Management",USD,Senior,Remote,"United States",S,1,48000
+2022,"Machine Learning and AI",EUR,Senior,Remote,"United Kingdom",L,1,77119
+2022,"Data Science and Research",EUR,Entry-level,Hybrid,Belgium,S,1,52008
+2022,"Leadership and Management",USD,Entry-level,Hybrid,"United States",L,1,130000
+2022,"Data Management and Strategy",USD,Senior,Remote,"United States",L,2,370000
+2022,"Machine Learning and AI",USD,Entry-level,Remote,"United Kingdom",L,1,30000
+2022,"Data Analysis",EUR,Entry-level,Hybrid,France,M,1,28368
+2022,"Data Analysis",USD,Senior,Remote,"United States",L,1,100000
+2022,"Data Science and Research",USD,Mid-level,Hybrid,Turkey,M,1,25000
+2022,"Data Analysis",SGD,Mid-level,Hybrid,Singapore,M,1,65257
+2022,"Machine Learning and AI",USD,Entry-level,Remote,"United States",L,1,180000
+2022,"Machine Learning and AI",USD,Mid-level,Remote,Egypt,M,1,22800
+2020,"Data Analysis",EUR,Entry-level,Remote,Portugal,M,1,22809
+2022,"Data Analysis",USD,Entry-level,In-person,Indonesia,L,1,15000
+2022,"Data Science and Research",AUD,Senior,Remote,Australia,L,1,133766
+2022,"Machine Learning and AI",USD,Entry-level,In-person,"United States",L,1,83000
+2022,"Data Engineering",EUR,Mid-level,Hybrid,Germany,S,1,65666
+2020,"Data Science and Research",EUR,Entry-level,In-person,Germany,S,1,49268
+2022,"Machine Learning and AI",EUR,Mid-level,Remote,Germany,M,1,84053
+2022,"Data Engineering",EUR,Mid-level,In-person,Greece,M,2,105066
+2022,"Data Engineering",CAD,Executive,Remote,Canada,S,1,115222
+2022,"Machine Learning and AI",GBP,Entry-level,Remote,"United Kingdom",L,1,35093
+2022,"Data Analysis",GBP,Mid-level,Remote,"United Kingdom",M,2,86193
+2022,"Data Analysis",EUR,Mid-level,Remote,Spain,M,2,73546
+2022,"Data Analysis",EUR,Mid-level,Remote,Greece,M,2,73546
+2021,"Machine Learning and AI",EUR,Mid-level,Hybrid,Italy,L,1,51064
+2022,"Data Science and Research",USD,Senior,Remote,Mexico,L,1,60000
+2022,"Data Analysis",USD,Mid-level,In-person,"United States",S,2,116000
+2022,"Data Science and Research",GBP,Senior,In-person,"United Kingdom",M,2,209326
+2022,"Data Analysis",USD,Executive,Remote,"United States",M,2,240000
+2022,"Data Engineering",GBP,Senior,In-person,"United Kingdom",M,2,135446
+2022,"Data Architecture and Modeling",USD,Senior,Remote,Canada,M,2,283100
+2022,"Data Analysis",USD,Senior,Remote,Canada,M,4,382600
+2022,"Data Analysis",USD,Entry-level,In-person,Canada,M,2,119000
+2022,"Machine Learning and AI",USD,Senior,Remote,"United Arab Emirates",S,2,185000
+2022,"Machine Learning and AI",CAD,Mid-level,Remote,Canada,M,1,76814
+2020,"Machine Learning and AI",CAD,Senior,Hybrid,Canada,L,1,117104
+2022,"Data Science and Research",CAD,Executive,Hybrid,Canada,L,1,192037
+2022,"Machine Learning and AI",EUR,Mid-level,Hybrid,Portugal,L,1,55685
+2022,"Data Engineering",EUR,Mid-level,Hybrid,Germany,L,1,52533
+2022,"Data Analysis",CAD,Mid-level,Hybrid,Canada,L,1,69133
+2022,"Data Engineering",USD,Entry-level,Remote,"United States",S,1,65000
+2022,"Machine Learning and AI",EUR,Senior,Remote,Ireland,S,1,68293
+2021,"Data Science and Research",USD,Mid-level,Hybrid,"United States",L,4,501000
+2022,"Data Science and Research",CAD,Mid-level,Remote,Canada,M,1,67597
+2022,"Data Analysis",USD,Mid-level,Remote,Greece,S,1,20000
+2021,"Leadership and Management",EUR,Senior,Remote,Slovenia,L,1,102839
+2022,"Machine Learning and AI",AUD,Mid-level,Remote,Australia,L,1,83864
+2022,"Data Science and Research",USD,Entry-level,Remote,Malaysia,L,1,40000
+2022,"Leadership and Management",EUR,Mid-level,Remote,Estonia,S,1,31520
+2022,"Machine Learning and AI",EUR,Senior,Remote,Netherlands,L,1,59888
+2020,"Data Engineering",EUR,Entry-level,Remote,Germany,L,1,54742
+2022,"Data Science and Research",AUD,Entry-level,Hybrid,Australia,M,1,83171
+2022,"Machine Learning and AI",CAD,Senior,Remote,Canada,M,1,76814
+2022,"Data Science and Research",PLN,Mid-level,Remote,Poland,L,1,33609
+2022,"Data Analysis",USD,Mid-level,Remote,Canada,S,1,75000
+2020,"Data Analysis",USD,Mid-level,In-person,Honduras,S,1,20000
+2022,"Machine Learning and AI",EUR,Entry-level,Remote,"Czech Republic",M,1,30469
+2021,"Data Science and Research",USD,Mid-level,Hybrid,"Czech Republic",L,1,69999
+2022,"Data Engineering",EUR,Entry-level,Remote,Germany,M,1,55475
+2022,"Data Science and Research",EUR,Mid-level,In-person,Austria,L,1,61989
+2021,"Data Engineering",USD,Senior,In-person,"United States",L,2,426000
+2021,"Data Science and Research",USD,Senior,In-person,"United States",L,3,595000
+2021,"Data Analysis",USD,Mid-level,Remote,"United States",L,3,308000
+2021,"Data Science and Research",USD,Entry-level,Remote,"United States",M,2,180000
+2022,"Data Science and Research",CHF,Mid-level,In-person,Switzerland,L,1,120402
+2022,"Data Engineering",EUR,Mid-level,Remote,France,M,1,65141
+2022,"Data Science and Research",USD,Mid-level,Remote,"United States",S,1,48000
+2022,"Leadership and Management",USD,Entry-level,In-person,Pakistan,M,1,20000
+2022,"Machine Learning and AI",USD,Entry-level,Remote,Australia,S,1,150000
+2021,"Data Science and Research",USD,Entry-level,In-person,"United States",S,1,100000
+2022,"Data Science and Research",USD,Entry-level,Hybrid,Algeria,M,1,100000
+2022,"Data Science and Research",EUR,Senior,Remote,Germany,M,1,155499
+2021,"Machine Learning and AI",USD,Senior,Remote,Brazil,M,1,24000
+2021,"Machine Learning and AI",USD,Mid-level,Remote,"United States",M,1,38400
+2021,"Data Science and Research",USD,Mid-level,Remote,"United States",S,1,82500
+2021,"Data Science and Research",EUR,Entry-level,Hybrid,France,M,1,49646
+2022,"Data Engineering",USD,Entry-level,Remote,"United States",M,1,120000
+2022,"Machine Learning and AI",EUR,Senior,In-person,Germany,M,1,84053
+2021,"Machine Learning and AI",USD,Entry-level,Remote,India,S,1,20000
+2021,"Machine Learning and AI",USD,Senior,Hybrid,"United States",S,1,120000
+2021,"Data Science and Research",GBP,Entry-level,In-person,"United Kingdom",L,1,110037
+2022,"Machine Learning and AI",EUR,Entry-level,Remote,Portugal,L,1,21013
+2021,"Data Analysis",USD,Entry-level,Remote,"United States",M,2,130000
+2021,"Data Engineering",USD,Senior,Remote,"United States",M,2,350000
+2021,"Data Engineering",USD,Mid-level,Hybrid,Romania,M,1,60000
+2021,"Data Engineering",USD,Mid-level,Remote,"United States",L,7,952000
+2021,"Machine Learning and AI",USD,Entry-level,Hybrid,Iraq,S,1,100000
+2021,"Machine Learning and AI",EUR,Senior,Hybrid,Belgium,M,1,82744
+2020,"Data Engineering",EUR,Mid-level,Remote,Germany,S,1,59303
+2021,"Data Science and Research",EUR,Mid-level,Hybrid,France,M,1,62649
+2021,"Data Engineering",GBP,Mid-level,Remote,"United Kingdom",L,1,82528
+2021,"Data Architecture and Modeling",USD,Mid-level,Remote,"United States",L,3,500000
+2021,"Data Analysis",USD,Entry-level,Hybrid,"United States",S,1,55000
+2021,"Data Science and Research",USD,Executive,In-person,"United States",L,1,250000
+2021,"Data Engineering",USD,Entry-level,Remote,"United States",L,2,152500
+2020,"Data Engineering",USD,Entry-level,Remote,"United States",L,1,70000
+2021,"Data Science and Research",EUR,Executive,Hybrid,Germany,M,1,130026
+2021,"Data Science and Research",EUR,Entry-level,Hybrid,Germany,L,1,63831
+2020,"Data Science and Research",EUR,Senior,Remote,"United States",L,1,68428
+2021,"Data Science and Research",USD,Executive,In-person,Russia,M,1,85000
+2021,"Leadership and Management",USD,Executive,Hybrid,Russia,L,1,230000
+2021,"Machine Learning and AI",USD,Entry-level,Remote,"United States",S,1,125000
+2021,"Leadership and Management",USD,Senior,Remote,"United States",M,1,120000
+2020,"Data Science and Research",USD,Mid-level,In-person,"United States",M,1,450000
+2020,"Data Analysis",EUR,Mid-level,Hybrid,France,L,1,46759
+2020,"Data Engineering",EUR,Mid-level,Hybrid,Austria,L,1,74130
+2021,"Data Science and Research",CAD,Senior,Hybrid,Canada,L,2,223334
+2021,"Data Science and Research",USD,Senior,Remote,"United States",L,4,718000
+2021,"Data Science and Research",CAD,Mid-level,Remote,Canada,L,2,263216
+2020,"Data Science and Research",USD,Mid-level,Remote,"United States",L,2,208000
+2021,"Data Engineering",USD,Senior,Remote,"United States",L,5,862000
+2021,"Data Analysis",USD,Entry-level,Remote,"United States",S,2,150000
+2021,"Data Science and Research",USD,Mid-level,Remote,Nigeria,L,1,50000
+2021,"Machine Learning and AI",USD,Mid-level,Remote,"United States",L,1,270000
+2021,"Data Science and Research",CAD,Mid-level,Hybrid,Canada,L,1,54238
+2021,"Machine Learning and AI",EUR,Mid-level,Remote,Spain,S,1,47282
+2021,"Data Science and Research",EUR,Executive,Remote,Poland,L,1,153667
+2021,"Data Engineering",PLN,Mid-level,Remote,Poland,L,1,28476
+2021,"Leadership and Management",USD,Mid-level,Remote,"United States",L,1,110000
+2021,"Data Science and Research",GBP,Entry-level,Hybrid,"United Kingdom",L,1,82528
+2020,"Machine Learning and AI",USD,Entry-level,Hybrid,"United States",L,1,250000
+2021,"Data Analysis",EUR,Entry-level,Hybrid,France,M,1,59102
+2020,"Machine Learning and AI",USD,Entry-level,Remote,"United States",S,1,138000
+2021,"Leadership and Management",EUR,Senior,Remote,Germany,L,1,79197
+2021,"Data Analysis",USD,Senior,Remote,"United States",L,2,370000
+2020,"Data Science and Research",USD,Mid-level,Remote,"United States",S,1,45760
+2021,"Data Science and Research",EUR,Senior,Hybrid,France,L,1,53192
+2021,"Leadership and Management",USD,Executive,Remote,"United States",L,1,235000
+2021,"Data Analysis",USD,Executive,Remote,"United States",L,1,150000
+2020,"Data Engineering",EUR,Executive,Hybrid,Spain,L,1,79833
+2021,"Machine Learning and AI",USD,Entry-level,Remote,"United States",L,1,225000
+2021,"Data Science and Research",EUR,Entry-level,Remote,Germany,S,1,76833
+2020,"Machine Learning and AI",EUR,Mid-level,In-person,Portugal,M,1,50180
+2021,"Data Analysis",EUR,Senior,Remote,Denmark,L,1,88654
+2021,"Data Engineering",GBP,Senior,Remote,"United Kingdom",S,1,103160
+2021,"Data Engineering",GBP,Senior,Remote,"United Kingdom",M,1,113476
+2021,"Machine Learning and AI",EUR,Senior,Hybrid,Germany,L,1,94564
+2021,"Data Engineering",USD,Senior,Remote,"United States",S,2,275000
+2021,"Data Analysis",GBP,Mid-level,Hybrid,"United Kingdom",L,1,51519
+2020,"Data Engineering",USD,Mid-level,Remote,"United States",L,2,216000
+2020,"Data Engineering",GBP,Mid-level,Hybrid,"United Kingdom",L,1,112872
+2020,"Machine Learning and AI",EUR,Entry-level,Remote,Germany,S,1,15966
+2021,"Machine Learning and AI",EUR,Mid-level,Remote,"United States",S,1,95746
+2021,"Machine Learning and AI",USD,Entry-level,Remote,"United States",M,1,70000
+2020,"Data Science and Research",GBP,Mid-level,Remote,"United Kingdom",S,1,76958
+2021,"Data Engineering",SGD,Mid-level,Hybrid,Singapore,L,1,89294
+2020,"Data Engineering",USD,Senior,Remote,"United States",L,1,188000
+2021,"Data Science and Research",EUR,Senior,Hybrid,Portugal,L,1,60757
+2021,"Data Science and Research",USD,Entry-level,Remote,"United States",S,2,180000
+2020,"Data Engineering",EUR,Mid-level,Hybrid,France,L,1,70139
+2021,"Data Analysis",USD,Senior,Remote,"United States",M,1,170000
+2021,"Data Engineering",GBP,Senior,Hybrid,"United Kingdom",L,1,96282
+2021,"Data Science and Research",EUR,Entry-level,Hybrid,France,L,1,36643
+2021,"Data Engineering",GBP,Mid-level,Hybrid,"United Kingdom",L,1,72212
+2020,"Data Analysis",USD,Entry-level,Remote,"United States",L,3,263000
+2021,"Data Architecture and Modeling",CAD,Senior,Hybrid,Canada,M,1,99703
+2021,"Data Science and Research",CAD,Senior,Remote,Canada,L,1,103691
+2020,"Data Science and Research",USD,Entry-level,Hybrid,Netherlands,L,1,42000
+2020,"Data Science and Research",USD,Mid-level,In-person,"United Arab Emirates",L,1,115000
+2021,"Data Science and Research",CAD,Mid-level,Remote,Canada,M,1,63810
+2020,"Machine Learning and AI",USD,Senior,In-person,Japan,S,1,260000
+2021,"Data Science and Research",USD,Mid-level,In-person,"United States",S,1,110000
+2020,"Data Engineering",GBP,Senior,Hybrid,"United Kingdom",M,1,109024
+2021,"Machine Learning and AI",USD,Senior,Remote,"United States",S,1,256000
+2020,"Data Science and Research",EUR,Mid-level,In-person,Germany,L,1,79833
+2021,"Machine Learning and AI",USD,Senior,Hybrid,"United States",L,1,185000
+2021,"Data Engineering",EUR,Mid-level,Remote,Netherlands,L,2,115132
+2021,"Data Science and Research",USD,Entry-level,In-person,China,L,1,100000
+2020,"Machine Learning and AI",USD,Senior,Hybrid,"United States",L,1,150000
+2021,"Data Science and Research",TRY,Senior,Hybrid,Turkey,L,1,20171
+2021,"Machine Learning and AI",USD,Senior,Remote,Spain,L,1,55000
+2021,"Data Science and Research",USD,Entry-level,Hybrid,"United States",L,1,58000
+2021,"Data Science and Research",EUR,Senior,Hybrid,France,M,1,77684
+2021,"Machine Learning and AI",USD,Entry-level,Remote,Germany,S,1,85000
+2021,"Data Science and Research",EUR,Entry-level,In-person,Germany,L,1,76833
+2021,"Data Science and Research",USD,Senior,Remote,"United States",M,1,105000
+2021,"Data Engineering",EUR,Entry-level,Hybrid,Germany,M,1,65013
+2021,"Data Engineering",TRY,Mid-level,Remote,Turkey,M,1,28016
+2021,"Data Engineering",USD,Mid-level,In-person,"United States",M,2,204925
+2021,"Data Engineering",USD,Senior,Hybrid,"United States",S,1,160000
+2021,"Data Science and Research",EUR,Mid-level,Remote,Germany,S,1,25532
+2021,"Data Analysis",EUR,Senior,Hybrid,Germany,L,1,63831
+2020,"Data Science and Research",USD,Senior,Remote,"United States",S,1,190000
+2021,"Data Science and Research",EUR,Executive,In-person,Germany,L,1,141846
+2021,"Data Analysis",CAD,Senior,Remote,Canada,M,1,71786
+2021,"Machine Learning and AI",EUR,Entry-level,Hybrid,Germany,M,1,24823
+2020,"Data Analysis",USD,Mid-level,Remote,"United States",L,3,307000
+2021,"Machine Learning and AI",USD,Entry-level,Hybrid,Colombia,M,1,21844
+2020,"Data Engineering",USD,Senior,Hybrid,"New Zealand",S,1,125000
+2020,"Data Science and Research",EUR,Entry-level,In-person,France,S,1,51321
+2021,"Data Science and Research",EUR,Executive,Remote,Spain,S,1,69741
+2021,"Leadership and Management",USD,Senior,Remote,"United Kingdom",M,1,50000
+2020,"Data Science and Research",EUR,Entry-level,In-person,France,M,1,39916
+2021,"Data Engineering",EUR,Mid-level,In-person,"United States",L,1,26005
+2021,"Data Science and Research",EUR,Mid-level,Hybrid,Germany,L,3,270122
+2021,"Machine Learning and AI",USD,Entry-level,Hybrid,"United States",S,1,81000
+2021,"Data Science and Research",EUR,Mid-level,Hybrid,Austria,M,1,61467
+2021,"Machine Learning and AI",USD,Senior,Remote,"United States",M,1,195000
+2021,"Data Science and Research",EUR,Mid-level,Remote,Spain,L,1,37825
+2021,"Data Science and Research",USD,Executive,Remote,"United States",S,1,416000
+2021,"Machine Learning and AI",USD,Senior,Remote,Canada,L,1,225000
+2021,"Data Science and Research",GBP,Mid-level,Hybrid,"United Kingdom",L,2,173170
+2021,"Machine Learning and AI",PLN,Mid-level,Remote,Poland,L,1,46597
+2020,"Data Engineering",EUR,Senior,Remote,"United Kingdom",S,1,114047
+2021,"Machine Learning and AI",EUR,Mid-level,Remote,Belgium,M,1,88654
+2020,"Data Engineering",USD,Mid-level,Remote,"United States",M,2,186800
+2021,"Machine Learning and AI",DKK,Entry-level,Hybrid,Denmark,S,1,28609
+2020,"Data Engineering",EUR,Senior,Hybrid,Greece,L,1,47899
+2021,"Data Engineering",GBP,Mid-level,Hybrid,"United Kingdom",S,1,66022
+2021,"Data Science and Research",EUR,Mid-level,Hybrid,France,S,1,56738
+2021,"Machine Learning and AI",EUR,Mid-level,Hybrid,Slovenia,L,1,24823
+2021,"Leadership and Management",USD,Senior,In-person,"United States",L,1,120000
+2021,"Data Engineering",USD,Mid-level,In-person,"United States",L,1,20000
+2021,"Machine Learning and AI",USD,Senior,Remote,"United States",L,1,200000
+2020,"Machine Learning and AI",DKK,Entry-level,Hybrid,Denmark,S,1,45896
+2021,"Data Science and Research",USD,Mid-level,Remote,"United States",L,2,311000
+2021,"Data Science and Research",USD,Senior,Remote,"United States",S,1,50000
+2021,"Data Science and Research",EUR,Mid-level,Remote,Greece,M,1,40189
+2021,"Data Engineering",USD,Senior,In-person,"United States",M,1,165000
+2020,"Data Science and Research",EUR,Mid-level,Hybrid,France,S,1,42197
+2020,"Data Science and Research",EUR,Entry-level,Hybrid,Germany,S,1,62726
+2020,"Data Science and Research",EUR,Entry-level,Hybrid,Italy,S,1,21669
+2021,"Leadership and Management",USD,Senior,Remote,"United States",L,1,140000
+2020,"Data Science and Research",USD,Senior,Hybrid,"United States",L,1,120000
+2021,"Data Science and Research",CAD,Senior,Remote,Canada,S,1,87738
+2021,"Data Analysis",GBP,Senior,Hybrid,"United Kingdom",L,1,61896
+2021,"Data Engineering",EUR,Senior,Hybrid,"United Kingdom",S,1,76833
+2021,"Machine Learning and AI",USD,Mid-level,Hybrid,Japan,S,1,74000
+2021,"Data Science and Research",USD,Senior,Remote,France,L,1,152000
+2021,"Data Engineering",USD,Mid-level,In-person,Moldova,S,1,18000
+2020,"Machine Learning and AI",USD,Senior,Remote,"United States",S,1,60000
+2021,"Machine Learning and AI",BRL,Senior,In-person,Brazil,M,1,18907
+2021,"Data Analysis",EUR,Entry-level,Remote,Luxembourg,L,1,59102
+2021,"Data Science and Research",EUR,Senior,Remote,Germany,M,1,173762
+2020,"Data Science and Research",EUR,Senior,Remote,Germany,M,1,148261
+2020,"Data Science and Research",EUR,Mid-level,Remote,Spain,M,1,38776
+2021,"Data Science and Research",EUR,Mid-level,Remote,Spain,M,1,46809
+2020,"Data Science and Research",EUR,Senior,In-person,Austria,S,1,91237
+2020,"Data Science and Research",EUR,Mid-level,Hybrid,Luxembourg,S,1,62726
+2021,"Data Analysis",USD,Mid-level,In-person,"United States",L,2,137000
+2021,"Data Science and Research",USD,Mid-level,In-person,"United States",L,1,73000
+2020,"Data Science and Research",USD,Senior,Remote,"United States",M,1,190200
+2020,"Data Science and Research",USD,Mid-level,Remote,"United States",M,2,256350
+2020,"Machine Learning and AI",EUR,Senior,Remote,Croatia,S,1,45618
+2021,"Data Science and Research",USD,Senior,In-person,Japan,S,1,168000
+2021,"Data Science and Research",SGD,Mid-level,Remote,Israel,M,1,119059
+2021,"Machine Learning and AI",USD,Mid-level,Hybrid,"United States",L,1,423000
+2021,"Data Engineering",EUR,Mid-level,Hybrid,Malta,L,1,28369
+2021,"Data Management and Strategy",USD,Senior,Remote,"United States",L,1,165000
+2020,"Data Science and Research",USD,Senior,Remote,"United States",L,1,412000
+2020,"Data Science and Research",USD,Entry-level,Remote,"United States",S,1,105000
